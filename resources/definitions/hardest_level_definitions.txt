@@ -1,0 +1,19 @@
+# default values for blocks
+default height:60 width:60 stroke:color(black)
+
+# block definitions
+bdef symbol:a hit_points:2 fill-2:color(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:b hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:c hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:d hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:e hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:f hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:g hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:h hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:i hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+bdef symbol:j hit_points:2 fill-2:image(block_images/arm.jpg) fill:image(block_images/muscle2.jpg)
+
+
+
+# spacers definitions
+sdef symbol:- width:70

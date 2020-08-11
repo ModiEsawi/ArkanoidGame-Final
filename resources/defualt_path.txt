@@ -1,0 +1,6 @@
+e:easy
+definitions/easy_choice.txt
+m:Medium
+definitions/medium_choice.txt
+h:hard
+definitions/hard_choice.txt

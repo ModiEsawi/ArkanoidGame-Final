@@ -1,0 +1,72 @@
+# First Level
+# Single block direct hit
+START_LEVEL
+level_name:Direct Hit
+ball_velocities:0,6
+background:image(background_images/sniper.jpg)
+paddle_speed:10
+paddle_width:160
+block_definitions:definitions/direct_hit_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:1
+START_BLOCKS
+*******o
+END_BLOCKS
+END_LEVEL
+
+#Second Level
+START_LEVEL
+level_name:Meet The Night King
+ball_velocities:30,6 50,6 40,6 35,6 30,6 50,6 40,6 35,6 30,6 50,6 40,6 35,6
+background:image(background_images/the_night_king.jpeg)
+paddle_speed:10
+paddle_width:160
+block_definitions:definitions/moon_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:100
+num_blocks:4
+START_BLOCKS
+-
+---gpgpgpgpgpg--
+---pgpgpgpgpgp--
+---gpgpgpgpgpg--
+END_BLOCKS
+END_LEVEL
+
+#Third Level
+START_LEVEL
+level_name:Strong Big Biceps!
+ball_velocities:-60,6 -45,6 -30,6 -15,6 15,6 30,6 45,6 60,6 -60,6 -45,6 -30,6 -15,6 15,6 30,6 45,6 60,6
+background:image(background_images/background2.jpg)
+paddle_speed:10
+paddle_width:160
+block_definitions:definitions/hardest_level_definitions.txt
+blocks_start_x:7
+blocks_start_y:80
+row_height:16
+num_blocks:100
+START_BLOCKS
+-aaaaaaaaaaa-
+-
+-
+-
+-aaaaaaaaaaa-
+-
+-
+-
+-aaaaaaaaaaa-
+-
+-
+-
+-aaaaaaaaaaa-
+-
+-
+-
+-aaaaaaaaaaa-
+
+END_BLOCKS
+END_LEVEL
+

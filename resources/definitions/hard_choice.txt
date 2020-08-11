@@ -1,0 +1,56 @@
+#First Level
+START_LEVEL
+level_name: Life is Colorful
+ball_velocities:45,6 45,6 46,6 47,6 45,6 46,6 47,6 46,6 47,6 45,6 46,6 47,6 10,6 10,6 10,6 10,6 10,6
+background:image(background_images/background4.jpg)
+paddle_speed:10
+paddle_width:160
+block_definitions:definitions/final_four_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:105
+START_BLOCKS
+-
+-
+GGGGGGGGGGGGGGG
+rrrrrrrrrrrrrrr
+yyyyyyyyyyyyyyy
+ggggggggggggggg
+wwwwwwwwwwwwwww
+ppppppppppppppp
+ccccccccccccccc
+
+END_BLOCKS
+END_LEVEL
+
+
+#Second Level
+START_LEVEL
+level_name:Its Too Hot Today
+ball_velocities:30,6 50,6 40,6 35,6 -60,6 -45,6 -30,6 -15,6 15,6 30,6
+background:image(background_images/hell.jpg)
+paddle_speed:10
+paddle_width:160
+block_definitions:definitions/hell_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:52
+START_BLOCKS
+-
+-
+-hhhhhhhhhhhhh--
+-
+-hhhhhhhhhhhhh--
+-
+-hhhhhhhhhhhhh--
+-
+-hhhhhhhhhhhhh--
+-
+-hhhhhhhhhhhhh--
+
+
+END_BLOCKS
+END_LEVEL
+
