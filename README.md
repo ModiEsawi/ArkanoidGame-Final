@@ -12,6 +12,6 @@ We will also practice a bit of java generics.
 
 Finally, in this assignment you will also create an executable jar file, that will contain your compiled code as well as the resources needed for it to run.
 
-- Here are some pictures of od diffrent levels in the final arkanoid game.
+## Here are some pictures of of diffrent levels in the final arkanoid game.
 
 ![pjimage](https://user-images.githubusercontent.com/59531180/89906847-9108d600-dbf4-11ea-94ba-482a0781c6a9.jpg)
